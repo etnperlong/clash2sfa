@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/xmdhs/clash2sfa/db"
-	"github.com/xmdhs/clash2sfa/handle"
+	"github.com/etnperlong/clash2sfa/db"
+	"github.com/etnperlong/clash2sfa/handle"
 )
 
 //go:embed config.json.template

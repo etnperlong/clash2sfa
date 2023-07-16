@@ -3,7 +3,7 @@ package db
 import (
 	"context"
 
-	"github.com/xmdhs/clash2sfa/model"
+	"github.com/etnperlong/clash2sfa/model"
 )
 
 type DB interface {

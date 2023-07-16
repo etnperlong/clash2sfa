@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/xmdhs/clash2sfa/db"
-	"github.com/xmdhs/clash2sfa/model"
-	"github.com/xmdhs/clash2singbox/httputils"
+	"github.com/etnperlong/clash2sfa/db"
+	"github.com/etnperlong/clash2sfa/model"
+	"github.com/etnperlong/clash2singbox/httputils"
 	"lukechampine.com/blake3"
 )
 

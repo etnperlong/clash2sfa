@@ -6,7 +6,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/xmdhs/clash2sfa/model"
+	"github.com/etnperlong/clash2sfa/model"
 	"go.etcd.io/bbolt"
 )
 
