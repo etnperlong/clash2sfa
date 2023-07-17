@@ -72,16 +72,6 @@
     ],
     "outbounds": [
         {
-            "type": "selector",
-            "tag": "广告",
-            "default": "阻止",
-            "outbounds": [
-                "阻止",
-                "直连",
-                "节点"
-            ]
-        },
-        {
             "type": "direct",
             "tag": "直连"
         },

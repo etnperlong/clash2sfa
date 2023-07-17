@@ -3,7 +3,7 @@ module github.com/etnperlong/clash2sfa
 go 1.20
 
 require (
-	github.com/etnperlong/clash2singbox v0.0.0-20230716175413-286404275f6e
+	github.com/etnperlong/clash2singbox v0.0.0-20230716181508-653ff0a76755
 	go.etcd.io/bbolt v1.3.7
 	lukechampine.com/blake3 v1.2.1
 )
